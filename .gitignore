@@ -1,0 +1,11 @@
+.vs/
+Debug/
+x64/
+*.suo
+*.user
+*.ipch
+*.vsidx
+*.db
+ipch/
+*.opendb
+DocumentLayout*.json
